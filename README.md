@@ -1,6 +1,6 @@
 # Microsploit (Office Exploitation Tool)
 
-a Simple tool  for a fast and easy create backdoor office exploitation using module metasploit packet. Like Microsoft Office in windows or mac , Open Office in linux  , Macro attack , Buffer Overflow in word
+a Simple tool and not very special  but this tool fast and easy create backdoor office exploitation using module metasploit packet. Like Microsoft Office in windows or mac , Open Office in linux  , Macro attack , Buffer Overflow in word . Work in kali rolling , Parrot , Backbox .
 
 
 # Screenshot
