@@ -10,8 +10,7 @@ a Simple tool and not very special  but this tool fast and easy create backdoor 
 
 ## Getting Started
 1. ```git clone https://github.com/Screetsec/microsploit.git```
-2. ```cd Microsploit/setup```
-3. ```chmod +x Microsploit && ./Microsploit```
+2. ```chmod +x Microsploit && ./Microsploit```
 
 ## :book: How it works
 
